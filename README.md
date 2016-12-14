@@ -49,3 +49,6 @@ Contact sales for more info: http://itextpdf.com/sales
 [building]: BUILDING.md
 [contributing]: CONTRIBUTING.md
 [extrajars]: EXTRAJARS.md
+
+
+[![Join the chat at https://gitter.im/itextsharp/Lobby](https://badges.gitter.im/itextsharp/Lobby.svg)](https://gitter.im/itextsharp/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
